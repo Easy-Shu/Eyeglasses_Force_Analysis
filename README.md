@@ -5,7 +5,7 @@
 ## Citation
 If you find our work useful to your research, please consider citing:
 ```
-@article{jiang2019perception,
+@article{Zhang2023Temple,
   title={A Comprehensive Study on Temple Clamping Force for Eyeglasses Design: from Measuring to Modelling},
   author={Zhang, Jie and Chen, Junjian and Luximon, Yan},
   year={2023}
