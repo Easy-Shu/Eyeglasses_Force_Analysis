@@ -1,6 +1,8 @@
 # Temple Clamping Force Modelling for Eyeglasses Design
 A key factor in determining the comfort level of eyeglasses is the clamping force at the temple. However, how to estimate the clamping force remains under-explored. Hence, to address this gap, we developed a mathematical model to calculate the clamping force of the temples based on eyeglasses parameters (including length, displacement, and flexural rigidity of the temples).
 
+<img src="https://github.com/Easy-Shu/Eyeglasses_Force_Modelling/blob/main/Illustration1.jpg" width=100% alt="beasuty"></img>
+
 
 ## Citation
 If you find our work useful to your research, please consider citing:
