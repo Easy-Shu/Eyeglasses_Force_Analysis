@@ -13,15 +13,15 @@ from plotnine import ggplot,aes,geom_violin,geom_boxplot,geom_jitter,\
                      guides,scale_color_manual,facet_wrap,element_rect,scale_fill_cmap,scale_shape_manual,\
                      scale_linetype_manual,scale_color_distiller,scale_color_brewer,scale_fill_brewer,\
                      geom_path
-from plotnine.guides import guide_legend            
+#from plotnine.guides import guide_legend            
 import numpy as np
-from pandas.api.types import CategoricalDtype
-import statsmodels.api as sm
+#from pandas.api.types import CategoricalDtype
+#import statsmodels.api as sm
 from statsmodels.formula.api import ols
-from statsmodels.stats.anova import AnovaRM
-from scipy.stats import ttest_rel,ttest_ind
-from matplotlib import pyplot as plt 
-import pingouin as pg
+#from statsmodels.stats.anova import AnovaRM
+#from scipy.stats import ttest_rel,ttest_ind
+#from matplotlib import pyplot as plt 
+#import pingouin as pg
 
 #================================plastic eyeglasses==========================
 df_data=pd.read_csv("Data_Plastic_Temples.csv")
