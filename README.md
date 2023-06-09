@@ -1,10 +1,10 @@
 # Temple Clamping Force Modelling for Eyeglasses Design
 A key factor in determining the comfort level of eyeglasses is the clamping force at the temple. However, how to estimate the clamping force remains under-explored. Hence, to address this gap, we developed a mathematical model to calculate the clamping force ![](http://latex.codecogs.com/svg.latex?F) of the temples based on eyeglasses parameters (including length ![](http://latex.codecogs.com/svg.latex?L), displacement ![](http://latex.codecogs.com/svg.latex?d), and flexural rigidity ![](http://latex.codecogs.com/svg.latex?EI) of the temples).
 
-<img src="https://github.com/Easy-Shu/Eyeglasses_Force_Modelling/blob/main/device.png" width=100% alt="beasuty"></img>
+<img src="https://github.com/Easy-Shu/Eyeglasses_Force_Modelling/blob/main/Device.png" width=100% alt="Device"></img>
 Temple clamping force measurement using a digital tension meter. (a) Digital representation of the measurement device. (b) Actual measurement device in use.
 
-<img src="https://github.com/Easy-Shu/Eyeglasses_Force_Modelling/blob/main/Illustration1.jpg" width=100% alt="beasuty"></img>
+<img src="https://github.com/Easy-Shu/Eyeglasses_Force_Modelling/blob/main/Illustration1.jpg" width=100% alt="Illustration"></img>
 Regression results of physical dataset for plastic temples. (a) plastic eyeglasses samples. (b) multiple regression result for superposed displacement: ![](http://latex.codecogs.com/svg.latex?d=0.0316F\cdot{L^3}+0.0618F\cdot{L}). (c) linear regression result for temple displacement: ![](http://latex.codecogs.com/svg.latex?d=0.1125F\cdot{L^3}). 
 
 ## Citation
