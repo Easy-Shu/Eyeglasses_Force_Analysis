@@ -14,7 +14,7 @@ If you find our work useful to your research, please consider citing:
   title={A Novel Temple Clamping Force Measurement Method for Eyeglasses Design},
   author={Zhang, Jie and Chen, Junjian and Chen, Luwei and Luximon, Yan},
   booktitle={14th International Conference on Applied Human Factors and Ergonomics (AHFE 2023) and the Affiliated Conferences},
-  pages={1-7},
+  pages={1--7},
   year={2023}
 }
 ```
@@ -22,6 +22,7 @@ If you find our work useful to your research, please consider citing:
 @article{Zhang2023Temple,
   title={A Comprehensive Study on Temple Clamping Force for Eyeglasses Design: from Measuring to Modelling},
   author={Zhang, Jie and Chen, Junjian and Luximon, Yan},
+  pages={1--29},
   year={2023}
 }
 ```
