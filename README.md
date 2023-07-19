@@ -15,7 +15,7 @@ If you find our work useful to your research, please consider citing:
   author={Zhang, Jie and Chen, Junjian and Chen, Luwei and Luximon, Yan},
   booktitle={14th International Conference on Applied Human Factors and Ergonomics (AHFE 2023) and the Affiliated Conferences},
   volume={74},
-  pages={1--7},
+  pages={53--59},
   year={2023},
   doi={http://doi.org/10.54941/ahfe1003305},
 }
