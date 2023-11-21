@@ -17,7 +17,7 @@ If you find our work useful to your research, please consider citing:
   volume={74},
   pages={53--59},
   year={2023},
-  doi={http://doi.org/10.54941/ahfe1003305},
+  doi={10.54941/ahfe1003305},
 }
 ```
 ```
