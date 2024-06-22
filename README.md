@@ -24,9 +24,10 @@ If you find our work useful to your research, please consider citing:
 @article{Zhang2023Temple,
   title={A Comprehensive Study on Temple Clamping Force for Eyeglasses Design: from Measuring to Modelling},
   author={Zhang, Jie and Chen, Junjian and Luximon, Yan},
-  pages={1--29},
+  pages={1--28},
   journal={Measurement Science and Technology},
-  year={2024}
+  year={2024},
+  doi={10.1088/1361-6501/ad5a2d},
 }
 ```
 ## Contacts
